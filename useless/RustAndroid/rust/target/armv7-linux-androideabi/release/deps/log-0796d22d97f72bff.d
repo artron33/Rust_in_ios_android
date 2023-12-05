@@ -1,0 +1,10 @@
+/Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/target/armv7-linux-androideabi/release/deps/liblog-0796d22d97f72bff.rmeta: /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/target/armv7-linux-androideabi/release/deps/liblog-0796d22d97f72bff.rlib: /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/target/armv7-linux-androideabi/release/deps/log-0796d22d97f72bff.d: /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs:

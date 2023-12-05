@@ -1,0 +1,1 @@
+/Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/target/armv7-linux-androideabi/release/librust.so: /Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/src/lib.rs
