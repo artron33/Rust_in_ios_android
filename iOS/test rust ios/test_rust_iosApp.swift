@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import os.log
 
 @main
 struct test_rust_iosApp: App {
@@ -16,14 +15,4 @@ struct test_rust_iosApp: App {
         }
     }
     
-    init() {
-        let log = OSLog(subsystem: "com.yourcompany.yallah", category: "app-lifecycle")
-        os_log("Yallah App initialized", log: log)
-        
-        
-        let result = rust_hello("yattah")
-        let swift_result = String(cString: result!)
-        rust_hello_free(UnsafeMutablePointer(mutating: result))
-        print(swift_result)
-    }
 }

@@ -1,0 +1,9 @@
+/Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/target/debug/deps/liberror_chain-9dfee304fd113b67.rmeta: /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/lib.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/impl_error_chain_kind.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/error_chain.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/quick_main.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/backtrace.rs
+
+/Users/pichane/Project/produit/keyboard_auto_completion/RnD/rust-ios-example/RustAndroid/rust/target/debug/deps/error_chain-9dfee304fd113b67.d: /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/lib.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/impl_error_chain_kind.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/error_chain.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/quick_main.rs /Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/backtrace.rs
+
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/lib.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/impl_error_chain_kind.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/error_chain.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/quick_main.rs:
+/Users/pichane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/backtrace.rs:

@@ -3,6 +3,6 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-char *rust_hello(const char *to);
+char *rust_helloo(const char *searched, const char *s1, const char *s2, const char *s3);
 
 void rust_hello_free(char *s);

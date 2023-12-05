@@ -13,6 +13,9 @@
 		9E2152592B1C1DBE0008DE31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E2152582B1C1DBE0008DE31 /* Preview Assets.xcassets */; };
 		9E2152612B1C22430008DE31 /* librust.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E2152602B1C22110008DE31 /* librust.a */; };
 		9E2152622B1C23930008DE31 /* librust.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E2152602B1C22110008DE31 /* librust.a */; };
+		9E2424842B1ECB65002ABF80 /* dickens.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9E2424812B1ECB65002ABF80 /* dickens.txt */; };
+		9E2424852B1ECB65002ABF80 /* franklin.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9E2424822B1ECB65002ABF80 /* franklin.txt */; };
+		9E2424862B1ECB65002ABF80 /* hgwells.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9E2424832B1ECB65002ABF80 /* hgwells.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		9E2152552B1C1DBE0008DE31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E2152582B1C1DBE0008DE31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9E2152602B1C22110008DE31 /* librust.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = librust.a; path = libs/librust.a; sourceTree = "<group>"; };
+		9E2424812B1ECB65002ABF80 /* dickens.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = dickens.txt; path = ../../Rust/src/dickens.txt; sourceTree = "<group>"; };
+		9E2424822B1ECB65002ABF80 /* franklin.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = franklin.txt; path = ../../Rust/src/franklin.txt; sourceTree = "<group>"; };
+		9E2424832B1ECB65002ABF80 /* hgwells.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = hgwells.txt; path = ../../Rust/src/hgwells.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,7 @@
 		9E2152452B1C1DBD0008DE31 = {
 			isa = PBXGroup;
 			children = (
+				9E2424802B1ECB26002ABF80 /* Assets */,
 				9E2152502B1C1DBD0008DE31 /* test rust ios */,
 				9E21524F2B1C1DBD0008DE31 /* Products */,
 				9E21525F2B1C22110008DE31 /* Frameworks */,
@@ -79,6 +86,16 @@
 				9E2152602B1C22110008DE31 /* librust.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9E2424802B1ECB26002ABF80 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				9E2424812B1ECB65002ABF80 /* dickens.txt */,
+				9E2424822B1ECB65002ABF80 /* franklin.txt */,
+				9E2424832B1ECB65002ABF80 /* hgwells.txt */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,7 +157,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E2152592B1C1DBE0008DE31 /* Preview Assets.xcassets in Resources */,
+				9E2424842B1ECB65002ABF80 /* dickens.txt in Resources */,
+				9E2424862B1ECB65002ABF80 /* hgwells.txt in Resources */,
 				9E2152562B1C1DBE0008DE31 /* Assets.xcassets in Resources */,
+				9E2424852B1ECB65002ABF80 /* franklin.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
